@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.img {
+  height: 400px;
+  width: 100%;
+  border-radius: 10px;
+}
+.hed {
+  text-align: center;
+}
+.lt {
+  display: flex;
+  padding: 100px;
+  flex-direction: column;
+}
